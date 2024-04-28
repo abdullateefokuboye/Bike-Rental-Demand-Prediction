@@ -1,3 +1,5 @@
+[Back](https://abdullateefokuboye.github.io/)
+
 # Bike Rental Demand Prediction
 
 ![Bike Sharing Image](/image-s9ihjmnfa-transformed.png)
@@ -96,3 +98,5 @@ This final RMSLE score reflects the model’s efficiency in predicting real-worl
 ## Conclusion: Navigating the Future of Urban Mobility
 
 Our predictive model not only forecasts bike rental demands but also illuminates the dynamics of urban transportation. Details of the code can be found in the repo:[Github repository](https://github.com/abdullateefokuboye/Bike-Rental-Demand-Prediction)
+
+[Back to homepage](https://abdullateefokuboye.github.io/)
