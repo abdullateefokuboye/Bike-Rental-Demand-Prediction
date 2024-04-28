@@ -1,6 +1,6 @@
 # Bike Rental Demand Prediction
 
-![Bike Sharing Image](https://www.istockphoto.com/photo/young-woman-taking-bicycle-gm1161209073-318109607)
+![Bike Sharing Image](/image-s9ihjmnfa-transformed.png)
 
 ## Overview
 
